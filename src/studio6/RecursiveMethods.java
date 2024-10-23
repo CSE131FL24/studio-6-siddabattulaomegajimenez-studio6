@@ -32,7 +32,8 @@ public class RecursiveMethods {
 	 */
 	public static void circlesUponCircles(double xCenter, double yCenter, double radius,
 			double radiusMinimumDrawingThreshold) {
-		
+		StdDraw.circle(xCenter, yCenter, radius); 
+		if 
 		// FIXME
 	}
 
